@@ -35,11 +35,28 @@ ul {
   list-style: none;
   padding: 0;
 }
-.post {
+#blog {
   max-width: 700px;
+  margin: 0 auto;
+}
+
+.post {
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px dashed #f4abce;
   line-height: 1.6;
 }
 
+.post h1 {
+  font-size: 1.5rem;
+  color: #d77ea4;
+  margin-bottom: 0.5rem;
+}
+
+.post em, .post i {
+  color: #999;
+  font-style: italic;
+}
 
 li {
   margin-bottom: 1rem;

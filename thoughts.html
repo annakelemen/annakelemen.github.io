@@ -1,8 +1,30 @@
 <!-- thoughts.html -->
 <section id="blog">
-  <h1>✿ thoughts from the garden</h1>
-  <ul>
-    <li><a href="#" data-page="posts/2025_04_19.html">First post.</a> – April 19, 2025</li>
-  </ul>
+  <div id="blog-stream">loading the stream…</div>
 </section>
+
+<script src="scripts/markdown.js"></script>
+<script>
+  // List of posts to load (in order)
+  const posts = [
+    'posts/secret-seeds.md',
+    'posts/pink-light.md'
+    // Add more .md files here
+  ];
+
+  const blogContainer = document.getElementById('blog-stream');
+
+  Promise.all(posts.map(url =>
+    fetch(url).then(res => res.text()).then(md => {
+      const html = markdown.toHTML(md);
+      const article = document.createElement('article');
+      article.classList.add('post');
+      article.innerHTML = html;
+      return article;
+    })
+  )).then(renderedPosts => {
+    blogContainer.innerHTML = ''; // clear "loading" text
+    renderedPosts.forEach(post => blogContainer.appendChild(post));
+  });
+</script>
 
