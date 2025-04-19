@@ -46,11 +46,13 @@ ul {
   border-bottom: 1px dashed #f4abce;
   line-height: 1.6;
 }
-
-.post h1 {
-  font-size: 1.5rem;
+.post h1, .post h2, .post h3 {
+  font-variant: small-caps;
+  font-weight: bold;
+  font-style: italic;
   color: #d77ea4;
   margin-bottom: 0.5rem;
+  letter-spacing: 0.05em;
 }
 
 .post em, .post i {
