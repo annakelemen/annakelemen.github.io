@@ -26,7 +26,6 @@ body {
   font-size: 0.9rem;
   min-height: 100vh;
 }
-/* Blog tweaks */
 h1 {
   margin-bottom: 1rem;
   font-size: 2rem;
@@ -36,6 +35,11 @@ ul {
   list-style: none;
   padding: 0;
 }
+.post {
+  max-width: 700px;
+  line-height: 1.6;
+}
+
 
 li {
   margin-bottom: 1rem;
