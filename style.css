@@ -54,7 +54,7 @@ ul {
   margin-bottom: 0.5rem;
   letter-spacing: 0.05em;
   font-family: 'Georgia', serif;
-  padding: 0.1em 0.3em;
+  font-size: 1.1rem;
 }
 .post em, .post i {
   color: #aaaaaa;
