@@ -1,0 +1,161 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+a:hover, a:active,
+button:hover, button:active,
+input:hover, input:active,
+textarea:hover, textarea:active,
+select:hover, select:active,
+label:hover, label:active {
+cursor: url(cursor.gif), url(cursor.gif), auto !important;
+}
+
+
+body {
+  display: flex;
+  flex-direction: row;
+  font-family: 'League Spartan', sans-serif;
+  font-weight: 200;
+  background: #EAF7CF;
+  font-size: 0.9rem;
+  min-height: 100vh;
+}
+
+/* Navigation */
+nav {
+  width: 200px;
+  background: none;
+  padding: 2rem 1rem;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav li {
+  margin-bottom: 1em;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+  padding: 0.5em 1em;
+  display: block;
+}
+
+nav a:hover {
+  color: black;
+  text-decoration: underline;
+  font-style: italic;
+}
+
+/* Main layout */
+main {
+  flex-grow: 1;
+  padding: 2rem;
+  max-width: 900px;
+}
+
+/* Gallery */
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.thumbnail {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.thumbnail:hover {
+  transform: scale(1.05);
+}
+a {
+  color:  #f4abce;
+  text-decoration: none;
+  font-weight: 200;
+}
+
+a:hover,
+a:focus,
+a:active {
+  color:  #e098bb; 
+  text-decoration: underline;
+  font-weight: 400;
+  font-style: italic;
+  outline: none;
+  box-shadow: none;
+}
+
+/* Modal */
+.modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  max-width: 95vw;
+  max-height: 90vh;
+}
+
+.modal img {
+  max-width: 90vw;
+  max-height: 85vh;
+}
+
+.close,
+.prev,
+.next {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+/* Responsive nav */
+@media (max-width: 768px) {
+  body {
+    flex-direction: column;
+  }
+
+  nav {
+    width: 100%;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid #ccc;
+  }
+
+  main {
+    padding: 1rem;
+    max-width: 100%;
+  }
+
+  .modal-content {
+    flex-direction: column;
+  }
+}
+html, body, a, button, input, textarea, select, label, iframe {
+  cursor: url(cursor.gif), url(cursor.gif), auto !important;
+}
