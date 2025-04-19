@@ -18,6 +18,7 @@
       <li><a href="#" data-page="home.html">home</a></li>
       <li><a href="#" data-page="photos.html">photos</a></li>
       <li><a href="#" data-page="playlists.html">playlists</a></li>
+      <li><a href="#" id="unlock-blog">stream</a></li>
     </ul>
   </nav>
 
@@ -93,6 +94,16 @@
         modalImage.src = images[currentIndex];
       }
     }
+    //for some fun
+    document.getElementById("unlock-blog").addEventListener("click", () => {
+      const password = prompt("Enter the secret code:");
+      if (password === "rosepetal") {
+        loadPage("thoughts.html"); 
+      } else {
+        alert("Incorrect code.");
+      }
+    });
+
   </script>
 </body>
 </html>
