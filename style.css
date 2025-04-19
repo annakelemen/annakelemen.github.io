@@ -43,26 +43,25 @@ ul {
 .post {
   margin-bottom: 3rem;
   padding-bottom: 2rem;
-  border-bottom: 1px dashed #f4abce;
   line-height: 1.6;
 }
 .post h1{
   font-variant: small-caps;
   font-weight: bold;
   font-style: italic;
-  color: #d77ea4;
+  background-color: #fff0f7;
+  border-radius: 4px;
   margin-bottom: 0.5rem;
   letter-spacing: 0.05em;
 }
 .post em, .post i {
   color: #b37e99;
   font-style: italic;
-  font-weight: 300;
+  font-variant: small-caps;
+  font-weight: 100;
   letter-spacing: 0.02em;
   font-family: 'Georgia', serif;
-  background-color: #fff0f7;
   padding: 0.1em 0.3em;
-  border-radius: 4px;
 }
 
 
