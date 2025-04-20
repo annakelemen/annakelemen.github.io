@@ -52,8 +52,6 @@ ul {
 #blog-stream ol {
   counter-reset: custom-counter;
   list-style: none;
-  border: 4px groove #fff0f7; 
-  border-radius: 10px;
   width: 80%;                     
   max-width: 600px;  
 }
