@@ -51,8 +51,11 @@ ul {
 
 #blog-stream ol {
   counter-reset: custom-counter;
-  padding-left: 1.5rem;
+  padding: 1rem 1.5rem;
   list-style: none;
+  border: 4px groove #fff0f7; 
+  border-radius: 10px;
+  margin: 2rem 0;
 }
 
 #blog-stream ol li {
