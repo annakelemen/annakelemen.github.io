@@ -107,6 +107,15 @@ ul {
    font-style: normal;
    font-size: 1.1rem;
 }
+#blog-stream strong {
+  font-family: 'League Spartan', sans-serif;
+  font-weight: 200;
+  font-size: 0.9rem;
+  background-color: #fff0f7;
+  padding: 0.1em 0.3em; /* optional: makes background color feel "wrapped" */
+  border-radius: 4px;   /* optional: smooth corners */
+}
+
 
 li {
   margin-bottom: 1rem;
