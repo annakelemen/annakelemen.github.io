@@ -1,5 +1,7 @@
 # Smell in the age of AI: What machines know about perfume
 ## 2025/04/19
+For vision and hearing the map between physical property and perception is well established: they are due to the wavelength of light and of a resonating body or string. However, what about smell? 
+
 *Creating models*
 Artificial intelligence is being applied to various aspects of fragrance. One of the main issues is the lack of available **data** to train on. A natural question is: what are the main **features** that predict smell or other olfactive properties of aromatic compounds? But engineering features is too complex. The act of smelling—from compound volatility to receptor binding and neurons firing—is not straightforward. The company Osmo asks people directly about the odor.
 
