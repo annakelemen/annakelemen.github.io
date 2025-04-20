@@ -56,3 +56,12 @@ There’s a growing focus on *intense captives* that allow more *natural ingredi
 
 In the industry, *briefs* are often driven by *marketing*. There are so many perfumes, especially in *niche perfumery*. One area where AI can help is in *recommendation systems*—finding scents that are *similar enough* to feel familiar but *novel enough* to be interesting. If people liked something, the model may suggest other things those people are likely to enjoy.
 
+In conclusion 
+1. GNNs are used to represent aromachemicals. 
+2. For the training, trained people can give feedback on smell attributes. General population can give feedback whether they like it.
+3. Olfaction is a complex process, where it is not always clear whether the effect is biological or chemical. E.g. receptor blocking for odor removal.
+4. Isomerism, structure and functional groups play affect smell.
+5. Environmental effects, such as biodegradability, and safety, such as toxicity, genetic toxicity, skin sensitization and irritability all play a role.
+6. There is some research on 'unconditional' behaviour associated with smell (pheromones).
+7. Creative IP such as captives, production processes, industry and sourcing knowledge are a business advantige.
+8. The future may be the creation of intense, safe, biodegradable captives and assisting fragrance testing and recommendation with AI. 
