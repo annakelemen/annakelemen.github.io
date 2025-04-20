@@ -4,7 +4,7 @@
 
 *Preparing an espresso*
 
-Pressure and resistance are key to good espresso. Higher pressure speeds up extraction and pulls more oils and flavors from the coffee, creating a richer, more intense cup. Lower pressure slows extraction and can lead to under-extracted, sour flavors if not properly balanced. A finer grind increases resistance, building pressure and extracting a richer shot. A coarser grind lowers resistance, causing water to flow too quickly and under-extract the coffee. Tamping also affects resistance and should be consistent.
+**Pressure** and **resistance** are key to good espresso. Higher pressure speeds up extraction and pulls more oils and flavors from the coffee, creating a richer, more intense cup. Lower pressure slows extraction and can lead to under-extracted, sour flavors if not properly balanced. A finer grind increases resistance, building pressure and extracting a richer shot. A coarser grind lowers resistance, causing water to flow too quickly and under-extract the coffee. Tamping also affects resistance and should be consistent.
 
 
 1. Check the water tank to ensure it has enough water.
@@ -26,22 +26,22 @@ Pressure and resistance are key to good espresso. Higher pressure speeds up extr
 6. Purge the steam wand: open the wand, press both coffee and steam switches until water flows out. Close the steam wand and turn off switches.
 
 *Heart latte art*
-1. Prepare the milk
+1. **Prepare the milk**
 Gently tap and swirl the jug to remove larger air bubbles.
-2. Mix the milk with the espresso:
+2. **Mix the milk with the espresso**:
 Hold the cup by the handle in your non-dominant hand and tilt it at a 30–40° angle. Begin pouring milk from a height to "stretch the canvas" and mix with the espresso — fill the cup about halfway. After tilting back, swirl to mix.
-3. Pour the design:
+3. **Pour the design**:
 Bring the pitcher close until it nearly touches the rim of the cup. Lower the tip into the center and start pouring slowly. Wiggle the pitcher gently while staying centered. As the milk rises, slowly tilt the cup back to level, raise the pitcher slightly, and finish with a quick, clean cut-through motion to form a heart.
 
 *Maintenance and cleaning*
 
 *Daily*
 The filters should not be blocked. Wash with water and detergent, if needed. 
-Backflush: insert the blind filter, let pressure build up, then immediately turn off. Wipe the brewing group with a cloth.
+**Backflush**: insert the blind filter, let pressure build up, then immediately turn off. Wipe the brewing group with a cloth.
 
 *Weekly*
-1. Descale filter group: add 1 teaspoon of descaler into the blind filter. Backflush 3-4 times without removing the portafilter. Then remove portafilter and rinse with hot water from the machine. Clean the brewing group and portafilter with a damp cloth. Backflush with water only 3-4 times. Discard the first espresso brewed.
-2. Descale filters: place filters and portafilter in a descaling solution (3 teaspoons to 1 L of water) keeping the handle out of the liquid.  Wait 15 minutes then remove parts and rinse with plenty of warm water. Discard the first espresso brewed.
+1. **Descale filter group**: add 1 teaspoon of descaler into the blind filter. Backflush 3-4 times without removing the portafilter. Then remove portafilter and rinse with hot water from the machine. Clean the brewing group and portafilter with a damp cloth. Backflush with water only 3-4 times. Discard the first espresso brewed.
+2. **Descale filters**: place filters and portafilter in a descaling solution (3 teaspoons to 1 L of water) keeping the handle out of the liquid.  Wait 15 minutes then remove parts and rinse with plenty of warm water. Discard the first espresso brewed.
 3. Clean the machine exterior with a microfiber cloth.
 4. Clean the tray with detergent.
 
@@ -51,10 +51,10 @@ Backflush: insert the blind filter, let pressure build up, then immediately turn
 3. Clean the shower plate and screws with coffee fat remover. 
 4. Wipe parts including the group seal dry. 
 5. When reassembling, tighten screws only hand-tight.
-6. Clean the steam wand: Steam the steamwand cleaning solution, let it sit, then clean the wand with clean steam. For a deeper clean, the tip of the wand may be unscrewed.
+6. **Clean the steam wand**: Steam the steamwand cleaning solution, let it sit, then clean the wand with clean steam. For a deeper clean, the tip of the wand may be unscrewed.
 
 *Half a year*
-1. Replace ion-change filter: immerse in water for 3 minutes, then install the new filter (use PLA930s or PLA930M).
-2. Descale using sulfamic acid, including the steam circuit.
+1. **Replace ion-change filter**: immerse in water for 3 minutes, then install the new filter (use PLA930s or PLA930M).
+2. **Descale using sulfamic acid**, including the steam circuit.
 
 
