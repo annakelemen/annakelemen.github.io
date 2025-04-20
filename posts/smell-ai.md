@@ -1,10 +1,5 @@
 # Smell in the age of AI: What machines know about perfume
-
 ## 2025/04/19
-
-# Smell in the Age of AI: What Machines Know About Perfume  
-*2025/04/19*
-
 Artificial intelligence is being applied to various aspects of **fragrance**. One of the main issues is the lack of available **data** to train on. A natural question is: what are the main **features** that predict smell or other **olfactive** properties of **aromatic compounds**? But engineering features is too complex. The act of **smelling**—from **compound volatility** to **receptor binding** and **neurons firing**—is not straightforward. The company **Osmo** asks people directly about the **odor**.
 
 In current research, **feature engineering** is often left behind. Instead, the **model** is expected to learn what matters. **Graph neural networks (GNNs)** are commonly used. **Molecules** are represented as **graphs**. For every **atom**, information is stored, and messages are passed along **bonds** (the edges of the graph). To predict an attribute (e.g. "does it smell like cherry?"), the model is told whether it’s correct, and weights are updated accordingly. Over time, the weights become optimal for predicting that **attribute**.
