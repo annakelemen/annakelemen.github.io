@@ -36,8 +36,8 @@ Bring the pitcher close until it nearly touches the rim of the cup. Lower the ti
 *Maintenance and cleaning*
 
 *Daily*
-- The filters should not be blocked. Wash with water and detergent, if needed. 
-- Backflush: insert the blind filter, let pressure build up, then immediately turn off. Wipe the brewing group with a cloth.
+The filters should not be blocked. Wash with water and detergent, if needed. 
+Backflush: insert the blind filter, let pressure build up, then immediately turn off. Wipe the brewing group with a cloth.
 
 *Weekly*
 1. Descale filter group: add 1 teaspoon of descaler into the blind filter. Backflush 3-4 times without removing the portafilter. Then remove portafilter and rinse with hot water from the machine. Clean the brewing group and portafilter with a damp cloth. Backflush with water only 3-4 times. Discard the first espresso brewed.
