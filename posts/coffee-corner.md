@@ -1,9 +1,11 @@
-# Preparing coffee with the Lelit PL41EM espresso machine
+# Coffee corner with the Lelit PL41EM
 
 ## 2024/04/20
 
 *Preparing an espresso*
+
 Pressure and resistance are key to good espresso. Higher pressure speeds up extraction and pulls more oils and flavors from the coffee, creating a richer, more intense cup. Lower pressure slows extraction and can lead to under-extracted, sour flavors if not properly balanced. A finer grind increases resistance, building pressure and extracting a richer shot. A coarser grind lowers resistance, causing water to flow too quickly and under-extract the coffee. Tamping also affects resistance and should be consistent.
+
 
 1. Check the water tank to ensure it has enough water.
 2. Place the coffee cup on top of the machine to warm up.

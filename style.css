@@ -49,6 +49,31 @@ ul {
   margin: 0 auto;
 }
 
+#blog-stream ol {
+  counter-reset: custom-counter;
+  padding-left: 1.5rem;
+  list-style: none;
+}
+
+#blog-stream ol li {
+  counter-increment: custom-counter;
+  position: relative;
+  margin-bottom: 1em;
+  padding-left: 1.8em;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+#blog-stream ol li::before {
+  content: counter(custom-counter) ".";
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-weight: bold;
+  color:  #fff0f7; 
+  font-family: "Sacramento", cursive;
+}
+
 .post {
   margin-bottom: 3rem;
   padding-bottom: 2rem;
