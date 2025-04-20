@@ -2,41 +2,44 @@
 
 ## 2025/04/19
 
-- There is lack of available data to train on. 
-- Effects in fine fragrance may be different than in say, candles.
-- Isomers matter. Oddly enough, structure sometimes correlates, sometimes not.
-- Current research: not really feature engineering, but leave it to the network: graph-neural networks (community-based)
-- Which models work well for large amount of data: GNNs tend to work well for less data, difffusion models also work well for large amount of data
-- We cannot really ignore the science, the data-set really matters.
-- Experience seems to be, that functional groups are important.
-- Osmo ignores the aspects such as volatility, receptor binding, neuron firing and rather asks people about the odor.
-- Molecules as graphs (small molecules!  Aromachemicals: have to be small to diffuse well). For every atom store information about that atom. Pass messages along the edges of the graph (the bond). From there predict attribute (for example, is it cherry). Tell the model whether it is correct or not correct. The weights are updated. Then the weights become optimal for being able to attributes. 
-- Smell is so subjective ! What is a clean smell? For someone in the world cinammon feels clean. 
-- Olfaction neuroscience: You can separate the objectivity and subjectivity of a smell. You can train objective smell recognition. The likes and associations are very different. (What does this smell like? Do people like this?: separate questions. But if you combine them back for a product.
-- One molecule, Two molecule: a mixture may smell complitely different. It is challenging. Up to a point. However there are biological effects. You can smell something but then not smell the other thing. How much of those effects are in the chemistry and how much is in the nose? Observer effect.
-- Silent enhancers of smell-perception. They activate the olfactory bulb. Some molecules may even surpress each other but lead to a better smell experience. 
-- Fixatives (fragrance lasts longer) and blooming (fragrance comes out fast -e.g. shower gels, soaps)  agents.  May be vapour pressure is getting affected? You add a big ingredient you block the receptor. But neurons are not fired. It's an active area of research in odour removal.
-- ISO-E super: Some people don't even smell it. It is a complex molecule with mixture of isomers. Why could it be a fragrance by itself. Due to stereoisomers. Different ratios of those. You need a lot of it for smell. But this could be a problem for skin irritation or allergies (safety) but good if you sell it. 
-- Ambroxan: Industracive, baccarat rouge. Or other fragrances that seem to be indestructible. Last forever. There is a balance between long-lasting but not too long. For example Galaxolide: does not biodegrade that well. Problem for the environment. There is a balance between these things. We want an intense smelling-molecule. Makes it safer for humans. Make sure that it lasts long but not indestruictible. 
-- Are there modeling for longevity and safety: yes. Toxicity: genetic toxicity. Skin-sensitiser. Skin irritability (this seems to have regional variation). Also, building up allergies by overuse. Model for biodegradability. 
-- Molecule intensity prediction: how intense will it smell. 
-- For example can you replace ISO-E super? Safer if you find similar if more intense, less used.
-- Hedione & Pheromones: pheromones come from bacterial and insect region: unconditional response to mating behaviour. However: for humans? Case of hexadetamol: effect molecule on human behaviour. 
-- New flanker with captive Fiscol. 2024 introduced fiscol (fresher smell). It was discovered 20 years ago. Massive lawsuits. Captives: new, novel, potential molecules, synthetics. Is it the future of modeling?   
-- A lot of the ingredients used now. Likely won't be available in 10 years. For example galaxolide, biogreadbility. What will be missing in 5-10 years? Lillial was banned in 2020 for example. 
-- Replacement and new ingredients. 
-- Are captives good for creativity? It's up to the perfumer.
-- Intellectual property. Big fragrance houses have their own captive programmes. (Laundries, shampoos, soaps). No one can copy their scent. IP matters a lot. There is no protection against protection. But if you have a captive important for a note. 
-- Is it maybe why dupe fails to deliver. Dupe companies by definition try to make a cheaper product.
-- But even: having access to farmers. It is difficult to have access the right ingredient with high quality. 
-- Symrise patented a very efficient production of Menthal. This really gave them an advantage. Natural vs. synthetics.
-- Linalool is present in a lot of naturals. The route matters because the impurities will affect the effect of the product. Different suppliers or synthetically or production. If you are able to patent a given route. That will also give you IP and an advantage because no one else will be able to make it. 
-- Very much focus on intense captives. Which then allow for use of more naturals. 
-- Fragrances of past, cult ones. Become cult ones due to novel materials. 
-- Modeling fragrances. 
-- Perfumers are much better at creating fragrances. They do a lot of work on improving stability, small performance modifications. This is an area giving a lot of time: could be freed by AI. 
-- Come up with perfume is fast, but testing takes a really long. 
-- Briefs in the industry: nowadays often marketing. 
-- Models can only do what they have seen. But they are not creative.
-- There are so many perfumes. Niche perfumery. Can AI help with giving recommendations? 
-- Similar enough, but novel enough. People have liked this so other things those people may like to. 
+# Smell in the Age of AI: What Machines Know About Perfume  
+*2025/04/19*
+
+Artificial intelligence is being applied to various aspects of **fragrance**. One of the main issues is the lack of available **data** to train on. A natural question is: what are the main **features** that predict smell or other **olfactive** properties of **aromatic compounds**? But engineering features is too complex. The act of **smelling**—from **compound volatility** to **receptor binding** and **neurons firing**—is not straightforward. The company **Osmo** asks people directly about the **odor**.
+
+In current research, **feature engineering** is often left behind. Instead, the **model** is expected to learn what matters. **Graph neural networks (GNNs)** are commonly used. **Molecules** are represented as **graphs**. For every **atom**, information is stored, and messages are passed along **bonds** (the edges of the graph). To predict an attribute (e.g. "does it smell like cherry?"), the model is told whether it’s correct, and weights are updated accordingly. Over time, the weights become optimal for predicting that **attribute**.
+
+**GNNs** tend to work well when there is less data. **Diffusion models** perform better with larger datasets. However, the **science** cannot be ignored—what goes into the **training dataset** really matters.
+
+Some **features** seem to matter more than others. **Isomerism** plays a role. So do **functional groups**. Oddly, **spatial structure** sometimes correlates with smell, sometimes it doesn’t.
+
+**Smell is subjective**. What is a "clean" smell? For someone, it might be **cinnamon**. In **olfaction neuroscience**, it’s possible to separate the **objective** and **subjective** components of a smell. Whether people like it or what it reminds them of are separate questions. But eventually, those come back together when making a **product**.
+
+The same **compound** can smell different depending on its **use**—fine **fragrance**, **candles**, **soaps**. Two **molecules** together may smell completely different from either alone. It’s a challenge. At some point, **biological effects** come in. One smell may suppress the perception of another. Is that in the **chemistry** or in the **nose**? It’s an **observer effect**.
+
+There are **silent enhancers**—molecules that activate the **olfactory bulb** without having a smell themselves. Some molecules may **suppress** each other, yet improve the experience. There are also **fixatives** (which make a scent last longer) and **blooming agents** (which help the fragrance come out fast, like in soaps or shower gels). Possibly, **vapor pressure** is affected. Adding a large ingredient might block a receptor, but no neurons are fired. This is an **active area of research**, especially in **odor removal**.
+
+Take **ISO-E Super**. Some people can’t smell it. It’s a **complex molecule** with a **mixture of isomers**. It may work as a fragrance on its own due to its **stereoisomers**—different ratios, different effects. A large dose is needed to perceive it, which raises issues like **skin irritation** or **allergies**. That’s a **safety** concern—but also a **commercial** advantage if it works well.
+
+Another example is **Ambroxan**, used in **Baccarat Rouge**. Some molecules seem **indestructible**—they last forever. But there has to be a balance. **Galaxolide**, for instance, does not **biodegrade** well. That’s a problem for the **environment**. The goal is an **intense** smelling molecule that is **safe**, lasts **long enough**, but not **too long**.
+
+There are **models** for **longevity** and **safety**: **toxicity**, **genetic toxicity**, **skin sensitization**, **skin irritability** (which can vary by region), and **allergy build-up** due to overuse. There are also models to assess **biodegradability**. Some models predict **molecule intensity**—how strongly it will smell. Small molecules are often needed in **aromachemicals**, as they **diffuse** well.
+
+The question becomes: can **ISO-E Super** be replaced? Ideally, with something **safer**, **stronger**, and **less used**. Molecules like **hedione** raise questions around **pheromones**. These usually come from **bacteria** and **insects**, causing **unconditional** behavior like mating. In humans, the science is unclear, though cases like **hexadecanal** show some molecules can affect **human behavior**.
+
+In 2024, a new flanker included a captive called **Fiscol**, offering a **fresher smell**. It was actually discovered 20 years ago. There were massive **lawsuits**. **Captives** are novel, synthetic molecules protected by **intellectual property**. They might represent the **future of modeling**.
+
+Many ingredients used today likely won’t be available in 10 years. For instance, **Galaxolide** due to biodegradability concerns. **Lillial** was banned in 2020. There is an urgent need for **replacements** and **new ingredients**.
+
+Whether captives are good for **creativity** depends on the **perfumer**. **IP** is critical. Big fragrance houses run their own **captive programs** for **laundries**, **shampoos**, and **soaps**. These molecules are protected—others can’t copy their **scent**. There’s no real protection against protection, but if a **captive** is essential for a fragrance, it gives a real **advantage**.
+
+That may be why **dupe** products often fail. They try to make cheaper versions but don’t have access to the same **ingredients**. Even getting high-quality **natural ingredients** is difficult. Some companies, like **Symrise**, patent production routes—like for **menthol**—which gives them a significant **edge**.
+
+In naturals like **linalool**, the production **route** matters. Impurities introduced along the way can affect the product. If one can **patent** the production route, it creates **IP** and **market protection**.
+
+There’s a growing focus on **intense captives** that allow more **natural ingredients** in a formulation. Many **cult fragrances** of the past became iconic because of **novel molecules**.
+
+**Modeling fragrances** has its limits. A model can only do what it has seen before. It is not **creative**. A perfume can be **proposed** quickly, but **testing** takes time. People are still much better at **creating**. **AI** can help with **testing**, not with creation.
+
+In the industry, **briefs** are often driven by **marketing**. There are so many perfumes, especially in **niche perfumery**. One area where AI can help is in **recommendation systems**—finding scents that are **similar enough** to feel familiar but **novel enough** to be interesting. If people liked something, the model may suggest other things those people are likely to enjoy.
+
