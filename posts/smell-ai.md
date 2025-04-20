@@ -1,8 +1,9 @@
 # Smell in the age of AI: What machines know about perfume
 ## 2025/04/19
-For vision and hearing the map between physical property and perception is well established: they are due to the wavelength of light and of a resonating body or string. However, what about smell? 
+For vision and hearing the map between physical property and perception is well established: it is the wavelength of light and of a resonating body or string, respectively. However, what about smell? This is a summary of the conversation of the CTO of the company Osmo Richard Whitcomb and Maria Meliora on the podcast Pefume Nation.
 
 *Creating models*
+
 Artificial intelligence is being applied to various aspects of fragrance. One of the main issues is the lack of available **data** to train on. A natural question is: what are the main **features** that predict smell or other olfactive properties of aromatic compounds? But engineering features is too complex. The act of smelling—from compound volatility to receptor binding and neurons firing—is not straightforward. The company Osmo asks people directly about the odor.
 
 In current research, feature engineering is often left behind. Instead, the model is expected to learn what matters. **Graph neural networks (GNNs)** are commonly used. Molecules are represented as graphs. For every atom, information is stored, and messages are passed along bonds (the edges of the graph). To predict an attribute (e.g. "does it smell like cherry?"), the model is told whether it’s correct, and weights are updated accordingly. Over time, the weights become optimal for predicting that attribute.
@@ -12,6 +13,7 @@ GNNs tend to work well when there is less data. Diffusion models perform better 
 Some features seem to matter more than others. Isomerism plays a role. So do functional groups. Oddly, spatial structure sometimes correlates with smell, sometimes it doesn’t.
 
 *Olfaction neuroscience and chemistry*
+
 **Smell is subjective**. What is a "clean" smell? For someone, it might be cinnamon. In olfaction neuroscience, it’s possible to separate the objective and subjective components of a smell. Whether people like it or what it reminds them of are separate questions. But eventually, those come back together when making a product.
 
 The same compound can smell different depending on its use—fine fragrance, candles, soaps. Two molecules together may smell completely different from either alone. It’s a challenge. At some point, biological effects come in. One smell may suppress the perception of another. Is that in the chemistry or in the nose? It’s an observer effect.
@@ -27,6 +29,7 @@ There are models for longevity and safety: toxicity, genetic toxicity, skin sens
 The question becomes: can ISO-E Super be replaced? Ideally, with something safer, stronger, and less used. Molecules like hedione raise questions around pheromones. These usually come from bacteria and insects, causing unconditional behavior like mating. In humans, the science is unclear, though cases like hexadecanal show some molecules can affect human behavior.
 
 *The market and future directions*
+
 In 2024, a new flanker included a captive called Fiscol, offering a fresher smell. It was actually discovered 20 years ago. There were massive lawsuits. Captives are novel, synthetic molecules protected by intellectual property. They might represent the future of modeling.
 
 Many ingredients used today likely won’t be available in 10 years. For instance, Galaxolide due to biodegradability concerns. Lillial was banned in 2020. There is an urgent need for replacements and new ingredients.
@@ -53,3 +56,7 @@ In the industry, briefs are often driven by marketing. There are so many perfume
 6. There is some research on 'unconditional' behaviour associated with smell (pheromones).
 7. Creative IP such as captives, production processes, industry and sourcing knowledge are a business advantige.
 8. The future may be the creation of intense, safe, biodegradable captives and assisting fragrance testing and recommendation with AI. 
+
+
+Much of the research has been done at Google Brain https://research.google/blog/digitizing-smell-using-molecular-maps-to-understand-odor/
+More on structure-odor relationship modeling can be found at https://arxiv.org/pdf/1910.10685
