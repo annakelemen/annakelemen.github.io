@@ -60,7 +60,7 @@ The filters should not be blocked. Wash with water and detergent, if needed.
 2. **Descale using sulfamic acid**, including the steam circuit.
 
 As a descaler use LujoClean powder, which is a mixture of sodium percarbonate and potassium carbonate. The reactions taking place are
-$$2 Na_2CO_3 \dot 3 H_2O_2 \rightarrow 3 H_2O_2 + 4 Na^+ + 2 CO_3^{2-}$$ and $K_2CO_3 + H_2O \rightarrow 2 KOH + CO2$$.  Potassium carbonate and sodium carbonate are water softeners, since the calcium and magnesium ions are prescipated. For potassium carbonate $$Ca(OH)_2 + K_2CO_3 \rightarrow CaCO_3 + KOH$$ and for $$Mg(OH)_2 + K_2CO_3 \rightarrow MgCO3 + KOH$$. 
+\\(2 Na_2CO_3 \dot 3 H_2O_2 \rightarrow 3 H_2O_2 + 4 Na^+ + 2 CO_3^{2-}\\) and $K_2CO_3 + H_2O \rightarrow 2 KOH + CO2$$.  Potassium carbonate and sodium carbonate are water softeners, since the calcium and magnesium ions are prescipated. For potassium carbonate $$Ca(OH)_2 + K_2CO_3 \rightarrow CaCO_3 + KOH$$ and for $$Mg(OH)_2 + K_2CO_3 \rightarrow MgCO3 + KOH$$. 
 It is therefore very important to only use a minimal amount of descaler and wash thoroughly after use.
 
 
