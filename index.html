@@ -130,6 +130,7 @@
             throwOnError: false,
             inlineTolerantNoSpace: true,
             };
+          require('karex/contrib/mchem');
           marked.use(markedKatex(options));
           const html = marked.parse(md);
           const article = document.createElement('article');
