@@ -43,7 +43,7 @@ The filters should not be blocked. Wash with water and detergent, if needed.
 
 *Weekly*
 1. **Backflush filter group**: clean group seal with the brash, and the group filter with a cloth. Add descaler into the blind filter according to instructions. Backflush 3-4 times without removing the portafilter. Then remove portafilter and rinse with hot water from the machine. Clean the brewing group and portafilter with a damp cloth. Backflush with water only 3-4 times. Discard the first espresso brewed.
-2. **Backflush filters**: place filters and portafilter in a coffee-fat remover solution (concentration according to instruction) keeping the handle out of the liquid.  Wait 15 minutes then remove parts and rinse with plenty of warm water. Discard the first espresso brewed.
+2. **Backflush filters**: place filters and portafilter in descaler (concentration according to instruction) keeping the handle out of the liquid.  Wait 15 minutes then remove parts and rinse with plenty of warm water. Discard the first espresso brewed.
 3. Clean the machine exterior with a microfiber cloth.
 4. Clean the tray with detergent.
 
@@ -59,11 +59,9 @@ The filters should not be blocked. Wash with water and detergent, if needed.
 1. **Replace ion-change filter**: immerse in water for 3 minutes, then install the new filter (use PLA930s or PLA930M).
 2. **Descale using sulfamic acid**, including the steam circuit.
 
-`As a descaler use LujoClean powder (mixture of sodium percarbonate and potassium carbonate). 
+As a descaler use LujoClean powder, which is a mixture of sodium percarbonate and potassium carbonate. The reactions taking place are
+$$2 Na_2CO_3 \dot 3 H_2O_2 \rightarrow 3 H_2O_2 + 4 Na^+ + 2 CO_3^{2-}$$ and $K_2CO_3 + H_2O \rightarrow 2 KOH + CO2$$.  Potassium carbonate and sodium carbonate are water softeners, since the calcium and magnesium ions are prescipated. For potassium carbonate $$Ca(OH)_2 + K_2CO_3 \rightarrow CaCO_3 + KOH$$ and for $$Mg(OH)_2 + K_2CO_3 \rightarrow MgCO3 + KOH$$. 
+It is therefore very important to only use a minimal amount of descaler and wash thoroughly after use.
 
-$$2 Na_2CO_3 \dot 3 H_2O_2 \rightarrow 3 H_2O_2 + 4 Na^+ + 2 CO_3^{2-}$$.
-$K_2CO_3 + H_2O \rightarrow 2 KOH + CO2$$.  Potassium carbonate and sodium carbonate are water softeners, since the calcium and magnesium ions are prescipated. For example, $$Ca(OH)_2 + K_2CO_3 \rightarrow CaCO_3 + KOH$$ and for $$Mg(OH)_2 + K_2CO_3 \rightarrow MgCO3 + KOH$$. 
-
-It is therefore very important to only use a minimal amount of descaler and was thoroughly after use.
 
 
