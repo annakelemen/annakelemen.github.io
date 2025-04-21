@@ -3,7 +3,7 @@
 
 **Yellow onion** skins dye the eggs a **reddish-brown** shade, while **red onions** can create a **deep red** or burgundy color.  Onion skins contains quercetin, pelargonidin, malvidin, and cyanidin as dyes, but the quercitin is the dominant dye component.  It is best to start collecting the onion skins as early as February and  store the skins in well-ventilated box to prevent mold. 
 
-The two types of onion skins can be boiled separately, or together.  If **vinegar** is added, the egg shell can be dissolved (CaCO3 + 2H+ -> Ca2+ + H2O + CO2) therefore increasing the surface area for painting.  The lower pH also affects the colour of the cyanidin, shifting it to a red at lower pH, and violet at a neutral pH.
+The two types of onion skins can be boiled separately, or together.  If **vinegar** is added, the egg shell can be dissolved ($$CaCO_3 + 2H^+ -> Ca^{2+} + H_2O + CO_2$$) therefore increasing the surface area for painting.  The lower pH also affects the colour of the cyanidin, shifting it to a red at lower pH, and violet at a neutral pH.
 
 It is best to choose lighter-colored eggs. Before colouring the eggs, they are cleaned and any writing is removed.  There are two traditional decorative techniques in Hungary for egg-colouring.
 
