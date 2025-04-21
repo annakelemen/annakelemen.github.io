@@ -126,6 +126,11 @@
           return res.text();
         })
         .then(md => {
+          const options = {
+            throwOnError: false,
+            inlineTolerantNoSpace: true,
+            };
+          marked.use(markedKatex(options));
           const html = marked.parse(md);
           const article = document.createElement('article');
           article.classList.add('post');
