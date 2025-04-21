@@ -1,3 +1,4 @@
+<textarea>
 # Traditional easter eggs
 ## 2025/04/20
 
@@ -18,3 +19,4 @@ Place **leaves** such as parsley leaf on the egg, wrap it tightly in pantyhose, 
 
 
 *Happy Easter! Hristos vaskrse!*
+</textarea>
