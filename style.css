@@ -7,7 +7,9 @@ s
   padding: 0;
 }
 
-.katex{font-size: 0.9em;} 
+.katex{font-size: 0.9em;
+font-weight: 200;
+} 
 
 
 a:hover, a:active,
