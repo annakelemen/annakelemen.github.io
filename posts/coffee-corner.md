@@ -16,14 +16,16 @@
 7. Remove portafilter, discard the grounds and clean the brewing group and filter using a brush and a damp cloth. 
 8. Reinsert portafilter and turn off or keep machine on for further use.
 
+Optional:  air before turning on. Open the wand, press both coffee and steam switches until water flows out. Close the steam wand and turn off switches.
+
 
 *Frothing milk*
 1. Check the water tank to ensure it has enough water.
 2. Press the steam switch. The machine is ready for steaming once the indicator light turns on. 
 3. Froth milk. Immerse the wand, after opening the steam to the right amount, lower the pitcher to keep the wand close to the surface. Tilt the bottom of the pitcher to left, to have a clockwise frothed milk foam. The air intake should not be too little or too much. Stop if the can gets too hot.
-4. When finished, close the steam valve and clean the steam wand with a damp cloth.  
+4. When finished, close the steam valve and clean the steam wand with a damp cloth.  Purge the steam wand.
 5. Turn off the steam switch. 
-6. Purge the steam wand: open the wand, press both coffee and steam switches until water flows out. Close the steam wand and turn off switches.
+6. Air: open the wand, press both coffee and steam switches until water flows out. Close the steam wand and turn off switches.
 
 *Heart latte art*
 1. **Prepare the milk**
@@ -40,8 +42,8 @@ The filters should not be blocked. Wash with water and detergent, if needed.
 **Backflush**: insert the blind filter, let pressure build up, then immediately turn off. Wipe the brewing group with a cloth.
 
 *Weekly*
-1. **Descale filter group**: add 1 teaspoon of descaler into the blind filter. Backflush 3-4 times without removing the portafilter. Then remove portafilter and rinse with hot water from the machine. Clean the brewing group and portafilter with a damp cloth. Backflush with water only 3-4 times. Discard the first espresso brewed.
-2. **Descale filters**: place filters and portafilter in a descaling solution (3 teaspoons to 1 L of water) keeping the handle out of the liquid.  Wait 15 minutes then remove parts and rinse with plenty of warm water. Discard the first espresso brewed.
+1. **Backflush filter group**: clean group seal with the brash, and the group filter with a cloth. Add descaler into the blind filter according to instructions. Backflush 3-4 times without removing the portafilter. Then remove portafilter and rinse with hot water from the machine. Clean the brewing group and portafilter with a damp cloth. Backflush with water only 3-4 times. Discard the first espresso brewed.
+2. **Backflush filters**: place filters and portafilter in a coffee-fat remover solution (concentration according to instruction) keeping the handle out of the liquid.  Wait 15 minutes then remove parts and rinse with plenty of warm water. Discard the first espresso brewed.
 3. Clean the machine exterior with a microfiber cloth.
 4. Clean the tray with detergent.
 
@@ -56,5 +58,12 @@ The filters should not be blocked. Wash with water and detergent, if needed.
 *Half a year*
 1. **Replace ion-change filter**: immerse in water for 3 minutes, then install the new filter (use PLA930s or PLA930M).
 2. **Descale using sulfamic acid**, including the steam circuit.
+
+`As a descaler use LujoClean powder (mixture of sodium percarbonate and potassium carbonate). 
+
+$$2 Na_2CO_3 \dot 3 H_2O_2 \rightarrow 3 H_2O_2 + 4 Na^+ + 2 CO_3^{2-}$$.
+$K_2CO_3 + H_2O \rightarrow 2 KOH + CO2$$.  Potassium carbonate and sodium carbonate are water softeners, since the calcium and magnesium ions are prescipated. For example, $$Ca(OH)_2 + K_2CO_3 \rightarrow CaCO_3 + KOH$$ and for $$Mg(OH)_2 + K_2CO_3 \rightarrow MgCO3 + KOH$$. 
+
+It is therefore very important to only use a minimal amount of descaler and was thoroughly after use.
 
 
